@@ -25,11 +25,11 @@ Two subsections:
 
 ### Section 5 — Real Production Implementations
 Exactly 5 real-world examples. For each:
-- Title + technology stack (e.g., "Kafka / RabbitMQ", "Spring Framework", "React / RxJS")
+- Title + technology stack (e.g., "Kafka / RabbitMQ", "Java,""Spring boot Framework")
 - ASCII flow diagram showing how the pattern maps to that technology
 - 1–2 sentence explanation of the mapping
-- One real company or framework that uses it (Amazon, Spring Boot, Angular, etc.)
-- A short, runnable code snippet (Java, TypeScript, or relevant language) where it adds clarity
+- One real company or framework that uses it (Amazon, Spring Boot,  etc.)
+- A short, runnable code snippet (Java,Spring boot) where it adds clarity
 
 ### Section 6 — Trade-offs vs Other Design Patterns
 Compare against exactly 3–4 related patterns. For each comparison:
